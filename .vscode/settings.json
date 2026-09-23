@@ -1,0 +1,16 @@
+{
+  "files.autoSave": "off",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "off",
+
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.vscode": true,
+    "**/node_modules": true
+  },
+
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+
+  "task.allowAutomaticTasks": "on"
+}
